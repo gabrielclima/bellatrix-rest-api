@@ -1,0 +1,7 @@
+[package]
+name = "bellatrix-rust-api"
+version = "0.1.0"
+authors = ["Gabriel Lima <gabrielcastroslima@gmail.com>"]
+
+[dependencies]
+iron = "0.5.*"
